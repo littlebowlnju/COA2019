@@ -1,0 +1,7 @@
+cpu\present\PresentType$BIN.class
+cpu\present\PresentType$BCD.class
+cpu\present\transformers\Transformer.class
+cpu\present\transformers\TransformerFactory.class
+cpu\present\PresentType.class
+cpu\present\PresentType$DEC.class
+cpu\present\Number.class
